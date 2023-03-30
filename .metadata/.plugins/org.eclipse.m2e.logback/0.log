@@ -5,3 +5,4 @@
 2023-03-30 15:37:30,206 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\othma\OneDrive\Bureau\QuickLinker\Nouveau dossier\Back\pfa\src\test\resources
 2023-03-30 15:37:32,380 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-30 15:37:32,384 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-30 15:37:32,391 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\othma\OneDrive\Bureau\QuickLinker\Nouveau dossier\Back\pfa\src\test\resources
